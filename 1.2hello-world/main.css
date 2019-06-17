@@ -1,0 +1,9 @@
+
+#canvas {
+    background-color: #fff;
+    margin-left: 10px;
+    margin-top: 10px;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, .5);
+    -webkit-box-shadow: 4px 4px 8px rgba(0, 0, 0, .5);
+    -moz-box-shadow: 4px 4px 8px rgba(0, 0, 0, .5);
+}
